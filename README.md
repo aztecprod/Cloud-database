@@ -1,1 +1,13 @@
-# Cloud-database
+# Базы данных в облаке - Александр Шевцов
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/e54ce57a-9ab6-420c-9a9f-91690dc0b588)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/739c4da8-033f-4cfd-917e-456ddc722a76)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/5af32a32-2313-4a8d-bacf-bd48333a9158)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/c7fb0514-79d9-4cf0-af8e-a00781862cf6)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/c1841630-93e2-4f1c-b69a-975d90d10eea)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/ba410e8e-6b1f-4be5-911c-574fd8df98b4)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/eb334247-3114-48a4-b394-c1cfc0d0dbe0)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/eec810ee-df04-4ade-8ecc-669f82343331)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/708b9af8-127e-4687-a907-9f4c3c5d8d83)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/279de55b-66b1-4938-8c3e-c7311b42bee4)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/e5bee951-0aaa-48a7-a64e-40a96f506f1d)
+![image](https://github.com/aztecprod/Cloud-database/assets/25949605/a18e3ba4-ee44-42c1-bf4a-7052403f6949)
